@@ -1,0 +1,1 @@
+Confirmacion de transmicion remota.
